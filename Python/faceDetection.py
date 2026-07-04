@@ -33,4 +33,4 @@ while True:
 # turn down the video and finish CV2 execution
 video.release()
 out.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()
